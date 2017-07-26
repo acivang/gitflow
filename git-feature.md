@@ -1,4 +1,4 @@
-### Make an existing Git branch track a remote branch?
+### 1. Make an existing Git branch track a remote branch?
 
 * Given a branch foo and a remote upstream:
 
@@ -26,3 +26,10 @@
   ```
   git branch --set-upstream foo upstream/foo
   ```
+
+  > **参考资料：**</br>
+  > [Make an existing Git branch track a remote branch?](https://stackoverflow.com/questions/520650/make-an-existing-git-branch-track-a-remote-branch) </br>
+  > [checkout tracked remote branch](http://gitready.com/intermediate/2009/01/09/checkout-remote-tracked-branch.html)</br>
+  > [Adding a tracking branch](https://githowto.com/adding_a_tracking_branch)
+
+### 2. 
