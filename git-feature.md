@@ -17,9 +17,9 @@
   * Or, if you like to type longer commands, these are equivalent to the above two:
 
   ```
-  git branch --set-upstream-to=upstream/foo
+  git branch --set-upstream-to=upstream/foo // set current branch tracking remote branch
 
-  git branch --set-upstream-to=upstream/foo foo
+  git branch --set-upstream-to=upstream/foo foo // set the branch of foo tracking remote branch
   ```
 
   **As of Git 1.7.0:**
