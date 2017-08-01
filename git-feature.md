@@ -33,3 +33,8 @@
   > [Adding a tracking branch](https://githowto.com/adding_a_tracking_branch)
 
 ### 2. 
+
+  > **参考资料：**</br>
+  > [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+  > [Git Branching - Branching Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+  > [Git flow tool: git flow avh](https://github.com/petervanderdoes/gitflow-avh)
